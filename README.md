@@ -108,8 +108,7 @@ Gaussian blending;
 fallback to the existing implementation for unsupported cases.
 
 A complete benchmark notebook and prototype implementation are available here:
-
-[benchmark notebook / prototype]
+[monai_fast_sliding_window_benchmark.ipynb](https://github.com/JoshuaTeTec/monai-fast-sliding-window/blob/main/monai_fast_sliding_window_benchmark.ipynb)
 
 Question for the maintainers
 
